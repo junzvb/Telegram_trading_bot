@@ -1,0 +1,7 @@
+telegram-trading-bot/
+├─ package.json
+├─ .env.example
+├─ signals.js
+├─ bot.js
+├─ scheduler.js
+└─ server.js
